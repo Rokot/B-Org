@@ -34,7 +34,7 @@ public class MainActivity extends Activity {
 					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
 	}
-// Kommentar zum TEst
+
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 
